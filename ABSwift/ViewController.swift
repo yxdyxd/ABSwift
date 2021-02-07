@@ -9,10 +9,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var aa = 1
+    var bb = 2
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         self.view.backgroundColor = UIColor.orange
+        
+        print(aa)
     }
 
 
