@@ -1,0 +1,44 @@
+﻿{
+    "data": [
+        {
+            "class": "UIButton",
+            "rgb": "147",
+            "x": "100",
+            "y": "100",
+            "width": "100",
+            "height": "100",
+            "SEL": "click1",
+            "title": "button1"
+        },
+        {
+            "class": "UIButton",
+            "rgb": "67",
+            "x": "100",
+            "y": "200",
+            "width": "100",
+            "height": "100",
+            "SEL": "click2",
+            "title": "button2"
+        },
+        {
+            "class": "UIButton",
+            "rgb": "200",
+            "x": "100",
+            "y": "300",
+            "width": "100",
+            "height": "100",
+            "SEL": "click3",
+            "title": "button3"
+        },
+        {
+            "class": "UILabel",
+            "rgb": "147",
+            "x": "100",
+            "y": "400",
+            "width": "100",
+            "height": "100",
+            "title": "label1",
+            "SEL": "click3"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "class": "UITableView",
+      "rgb": "147",
+      "x": "0",
+      "y": "0",
+      "width": "-1",
+      "height": "-1",
+      "SEL": "click1",
+      "title": "button1",
+      "rowHeight":"100",
+      "tag":"10001",
+      "cell":"JsonCell"
+    },
+  ]
+}

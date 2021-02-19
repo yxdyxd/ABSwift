@@ -11,16 +11,24 @@ class ViewController: UIViewController {
 
     var aa = 1
     var bb = 2
+    var ab = "qw"
     
     
     override func viewDidLoad() {
+        
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         self.view.backgroundColor = UIColor.orange
         
-        print(aa)
+        print(aa, bb)
+        
+        print(self.getString(aaa: "er"))
     }
 
+    func getString(aaa: String) -> String {
+        let ccc = ab+aaa
+        return ccc
+    }
 
 }
 
